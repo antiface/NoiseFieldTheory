@@ -1,5 +1,6 @@
-# NoiseFieldTheory
-Noise Field Theory
+# Noise Field Theory
+* Noise Field Theory is a theory about the hypothetical existence of "noise fields";
+* (more soon...)
 
 ## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
 
