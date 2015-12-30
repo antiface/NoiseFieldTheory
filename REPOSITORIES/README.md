@@ -1,0 +1,18 @@
+## REPOSITORIES OF NOTE
+### Random Matrix Theory And Beyond
+* [MFry/BoltzmanMachine](https://github.com/MFry/BoltzmanMachine)
+* [rickyk9487/Random-Matrix-Theory](https://github.com/rickyk9487/Random-Matrix-Theory)
+* [hbldh/lspopt](https://github.com/hbldh/lspopt)
+* [macd/rogues](https://github.com/macd/rogues)
+* [fjarri-attic/qsim_long](https://github.com/fjarri-attic/qsim_long)
+* [rickyk9487/intro-algorithms](https://github.com/rickyk9487/intro-algorithms)
+* [rickyk9487/ProjectEuler](https://github.com/rickyk9487/ProjectEuler)
+* [rickyk9487/Data-Science](https://github.com/rickyk9487/Data-Science)
+* [mmihaljevic/algortihms_challenges](https://github.com/mmihaljevic/algortihms_challenges)
+* [rickyk9487/Interview_Problems](https://github.com/rickyk9487/Interview_Problems)
+* [rickyk9487/Machine-Learning](https://github.com/rickyk9487/Machine-Learning)
+* [asriniva/protein-rmt](https://github.com/asriniva/protein-rmt)
+* [fabrizziop/matrix-helper](https://github.com/fabrizziop/matrix-helper)
+* [ysak-y/binary_matrix_generator](https://github.com/ysak-y/binary_matrix_generator)
+* [FAngeletti/Pymatr](https://github.com/FAngeletti/Pymatr)
+* [abhishekraok/LettersTransitionNetwork](https://github.com/abhishekraok/LettersTransitionNetwork)
